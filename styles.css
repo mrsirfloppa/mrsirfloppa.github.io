@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(112, 196, 86);
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  text-align: center;
+}
+marquee {
+ color: rgb(196, 128, 40);
+}
+.WHAT {
+  color: #e42c2c;
+}
+.websiteheader{
+  color: #6d1818;
+  margin-top: 40px; /* adjust distance from top */
+  font-size: 24px;
+}
+.sidebarbutton{
+  position: absolute; right: 0; top: 20px;
+}
