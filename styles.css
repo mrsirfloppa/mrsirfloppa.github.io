@@ -14,6 +14,10 @@ marquee {
   margin-top: 40px; /* adjust distance from top */
   font-size: 24px;
 }
-.sidebarbutton{
-  position: absolute; right: 0; top: 20px;
+.points-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin: 20px 0;
 }
